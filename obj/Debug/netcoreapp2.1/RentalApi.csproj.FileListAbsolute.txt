@@ -1,0 +1,14 @@
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\bin\Debug\netcoreapp2.1\RentalApi.deps.json
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\bin\Debug\netcoreapp2.1\RentalApi.runtimeconfig.json
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\bin\Debug\netcoreapp2.1\RentalApi.runtimeconfig.dev.json
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\bin\Debug\netcoreapp2.1\RentalApi.dll
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\bin\Debug\netcoreapp2.1\RentalApi.pdb
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\obj\Debug\netcoreapp2.1\RentalApi.csprojAssemblyReference.cache
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\obj\Debug\netcoreapp2.1\RentalApi.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\obj\Debug\netcoreapp2.1\RentalApi.RazorAssemblyInfo.cache
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\obj\Debug\netcoreapp2.1\RentalApi.RazorAssemblyInfo.cs
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\obj\Debug\netcoreapp2.1\RentalApi.AssemblyInfoInputs.cache
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\obj\Debug\netcoreapp2.1\RentalApi.AssemblyInfo.cs
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\obj\Debug\netcoreapp2.1\RentalApi.RazorTargetAssemblyInfo.cache
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\obj\Debug\netcoreapp2.1\RentalApi.dll
+C:\Users\Gamer\source\repos\RentalApi\RentalApi\obj\Debug\netcoreapp2.1\RentalApi.pdb
